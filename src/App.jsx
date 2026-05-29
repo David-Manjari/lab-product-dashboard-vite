@@ -21,7 +21,7 @@ const App = () => {
       image:
         "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
     },
-    { id: 3, name: 'Tablet', price: '$499', inStock: true,
+    { id: 7, name: 'Tablet', price: '$499', inStock: true,
       image: "https://images.unsplash.com/photo-1625864667534-aa5208d45a87?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRhYmxldHxlbnwwfHwwfHx8MA%3D%3D"
      },
     
