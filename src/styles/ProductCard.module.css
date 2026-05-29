@@ -1,3 +1,42 @@
 /* TODO: Style the product card container */
+.inStock{
+    background-color: rgb(24, 31, 53);
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: aqua;
+}
+.in-stock.button {
+    width: 35px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: rgb(14, 59, 59);
+    border-width: 3px;
+    align-content: center;
+    color: rgb(160, 211, 194);
+}
 
 /* TODO: Add special styling for out-of-stock products */
+
+.outOfStockClass{
+    background-color: rgb(212, 170, 107);
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+   
+}
+.outOfStockClass.producttitle{
+text-transform: capitalize;
+font-style: oblique;
+font-weight: 800;
+}
+.outOfStockClass.button{
+    width: 35px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: aqua;
+    border-width: 3px;
+    align-content: center;
+}
