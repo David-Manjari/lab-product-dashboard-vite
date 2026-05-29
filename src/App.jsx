@@ -35,7 +35,7 @@ const App = () => {
     },
     {
       id: 4,
-      name: "Watch",
+      name: "Watchs",
       price: 250,
       inStock: true,
       image:
